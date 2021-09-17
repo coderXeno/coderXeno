@@ -26,4 +26,4 @@
 ## Github Overview
 
 <img align="left" alt="UniversalXeno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderXeno&show_icons=true&theme=dracula" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderXeno)](https://github.com/anuraghazra/github-readme-stats) 
