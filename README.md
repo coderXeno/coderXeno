@@ -28,4 +28,4 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=coderXeno&theme=dracula&count_private=true"></div> 
 
 <img align="left" alt="UniversalXeno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=coderXeno&show_icons=true&theme=dracula" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderXeno234&theme=tokyonight&hide=batchfile)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderXeno&theme=tokyonight&hide=batchfile)
