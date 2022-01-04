@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React, NodeJS
 - 👯 I’m looking to collaborate on some backend project ideas i have
 - 🤔 I’m looking for help with C++
-- 💬 Ask me about python and astrophysics
+- 💬 Ask me about and astrophysics
 - ⚡ Fun fact: I think that the universe probably follows an algo fr its continous expansion and contraction
 
 ### Frameworks and Languages I work with
