@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building discord bots in python and javascript, making react and nodejs projects
 - Im fairly accustomed to javascript and have made lots of projects using javascript for various purposes like website building, discord bots building etc.
-- 🌱 I’m currently learning React, NodeJS
+- 🌱 I’m currently learning ExpressJS,Django
 - 👯 I’m looking to collaborate on some backend project ideas i have
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about astrophysics
