@@ -1,7 +1,7 @@
 ### Hi there, Im UniversalXeno 👋
 
 - 🔭 I’m currently working on building web applications in React, Node js and javascript, as well as in python
-- Im fairly good in javascript and have made lots of projects using javascript and React for various purposes like website building, discord bots building, API interactions and much more.
+- Im fairly good in javascript as well as React and have made lots of projects using javascript and React for various purposes like website building, discord bots building, API interactions and much more.
 - 🌱 I’m currently learning ExpressJS,Django
 - 👯 I’m looking to collaborate on some backend project ideas i have
 - 🤔 I’m looking for help with C++
