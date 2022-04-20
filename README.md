@@ -1,11 +1,11 @@
 ### Hi there, Im UniversalXeno 👋
 - ![image](https://user-images.githubusercontent.com/73885838/152780342-90fbeb1b-25a4-4f49-8bb3-5105266fab2d.png) 
-- I absolutely love building web apps in React.
-- Give me projects to build in React!
+- I love building web apps in React.
+- I'm a full stack web dev and an ML enthusiast.
 
-- 🔭 I’m currently working on building web applications in React, Node js and javascript, as well as in python
+- 🔭 I’m currently working on building web applications in React, Node js and javascript, as well as in python and practicing ML
 - Im fairly good in javascript as well as React and have made lots of projects using javascript and React for various purposes like website building, discord bots building, API interactions and much more.
-- 🌱 I’m currently learning ExpressJS,Django
+- 🌱 I’m currently learning and practicing ML/AI
 - 👯 I’m looking to collaborate on some backend project ideas i have
 - 🤔 I’m looking for help with C++
 - 💬 Ask me about astrophysics
