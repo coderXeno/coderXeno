@@ -1,5 +1,4 @@
 ### Hi there, Im UniversalXeno 👋
-- ![image](https://user-images.githubusercontent.com/73885838/152780342-90fbeb1b-25a4-4f49-8bb3-5105266fab2d.png) 
 - I love building web apps in React.
 - I'm a full stack web dev and an ML enthusiast.
 
