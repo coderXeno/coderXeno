@@ -24,11 +24,7 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
 <img alt="Cyber Xeno's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=coderXeno&bg_color=000&color=fff&line=00E676&point=000&hide_border=true" />
-</details>
 
 ## Github Overview
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=coderXeno&theme=dracula&count_private=true"></div> 
