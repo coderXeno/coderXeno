@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning and practicing ML/AI
 - 👯 I’m looking to collaborate on some backend project ideas i have
 - 🤔 I’m looking for help with C++
-- 💬 Ask me about astrophysics
 - ⚡ Fun fact: I think that the universe probably follows an algo fr its continous expansion and contraction
 
 ## Github Overview
