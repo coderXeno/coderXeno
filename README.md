@@ -1,6 +1,7 @@
 ### Hi there, Im UniversalXeno 👋
 - I love building web apps in React.
-- I'm an ML enthusiast.
+- Im a full stack MERN developer.
+- I'm an AI/DL enthusiast.
 
 - 🔭 I’m currently working on building web applications in React, Node js and javascript, as well as in python and practicing ML
 - Im fairly good in javascript as well as React and have made lots of projects using javascript and React for various purposes like website building, discord bots building, API interactions and much more.
